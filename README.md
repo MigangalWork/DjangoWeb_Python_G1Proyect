@@ -1,19 +1,12 @@
-# REVO 
-## Rent electric vehicles online
 
-Este proyecto está diseñado para dar un paso más allá en el renting actual de movilidad eléctrica.
-Con un diseño sencillo y visual queremos ofrecer innovación ante la llegada de los vehículos más evolucionados manteniendo 
-un compromiso sostenible con el medio ambiente. 
-
----
-### HERRAMIENTAS USADAS:
-#### Frontend: 
+## HERRAMIENTAS USADAS:
+### Frontend: 
 - Html5 
 - Css 
 - Bootstrap
 - Figma
  
-#### Backend: 
+### Backend: 
 - Django
 - MySQL 
 
